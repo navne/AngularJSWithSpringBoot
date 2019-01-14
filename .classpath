@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry excluding="com/login/demo/dao/" kind="src" path="Back-End/src/main/java"/>
+	<classpathentry kind="src" path="Back-End/src/main/java/com/login/demo/dao"/>
+	<classpathentry kind="src" path="Back-End/src/test/java"/>
+	<classpathentry kind="lib" path="Back-End/gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="output" path="Back-End/bin/main"/>
+</classpath>
